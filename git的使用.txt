@@ -1,0 +1,17 @@
+git init //初始化一个git仓库
+git add <file> //将改动的地方添加到版本管理器
+git commit -m "changes something" //提交到本地的版本控制库里
+git push -u origin master //
+第一次推送时使用-u参数不仅壶把本地的master分支内容推送给远程的master分支，还会把本地的master分支和远程的master分支关联起来。将你的本地仓库提交到github中的仓库
+git status //可以看到距离上次提交不一样的地方
+git diff //可以看到距离上次提交更改的地方
+git log //可以看到每次的commit记录
+git reset --hard xxxxxxxx //xxxxx表示的是之前log中看到的版本号，没有必要写全
+git reflog //如果不小心回退了 没法得知回退过的版本号要怎么办？使用这个命令，可以看到
+git checkout -- <file> //可以让文件回到最近一次git commit或git add时的状态
+git reset HEAD <file> //可以把暂存区的修改撤销掉，重新放回工作区
+git checkout -b xxx //-b参数表示创建并切换，相当于git branch xxx和git checkout xxx
+git branch //查看当前分支
+git merge xxx //合并分支
+git merge --no-ff -m "aaa" xxx //使用普通模式进行合并，合并后的历史有分支，能看出来曾经做过合并，而fast forward 合并就看不出来曾经做过合并。
+git branch -d xxx //删除分支
