@@ -5,6 +5,10 @@
 活动图  
 ![](https://github.com/iKrelve/WebProject/blob/master/task4/%E6%B4%BB%E5%8A%A8%E5%9B%BE.png)
 
+内容建模
+-----------------------
+![](https://github.com/iKrelve/WebProject/blob/master/task4/%E5%86%85%E5%AE%B9%E5%BB%BA%E6%A8%A1.png)
+
 展示建模
 -----------------------
 ![](https://github.com/iKrelve/WebProject/blob/master/task4/%E5%B1%95%E7%A4%BA%E5%BB%BA%E6%A8%A1.png)
