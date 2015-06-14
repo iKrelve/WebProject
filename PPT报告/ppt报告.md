@@ -15,3 +15,7 @@
 层次架构
 -----------------------
 ![](https://github.com/iKrelve/WebProject/blob/master/task5/%E5%B1%82%E6%AC%A1%E6%9E%B6%E6%9E%84.png)
+
+集成架构
+-----------------------
+![](https://github.com/iKrelve/WebProject/blob/master/task5/%E9%9B%86%E6%88%90%E6%9E%B6%E6%9E%84.png)
