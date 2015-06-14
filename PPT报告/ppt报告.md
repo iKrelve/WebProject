@@ -19,3 +19,10 @@
 集成架构
 -----------------------
 ![](https://github.com/iKrelve/WebProject/blob/master/task5/%E9%9B%86%E6%88%90%E6%9E%B6%E6%9E%84.png)
+
+数据架构
+-----------------------
+![](https://github.com/iKrelve/WebProject/blob/master/task5/%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84.png)
+
+
+
