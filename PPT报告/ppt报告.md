@@ -11,3 +11,7 @@
 适应性建模
 -----------------------
 ![](https://github.com/iKrelve/WebProject/blob/master/task4/%E9%80%82%E5%BA%94%E6%80%A7%E5%BB%BA%E6%A8%A1.png)
+
+层次架构
+-----------------------
+![](https://github.com/iKrelve/WebProject/blob/master/task5/%E5%B1%82%E6%AC%A1%E6%9E%B6%E6%9E%84.png)
